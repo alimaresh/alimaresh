@@ -109,13 +109,6 @@ I am an **AI engineer, SaaS founder, web developer, game developer, and content 
 - Practical LLM agents and multi-agent systems
 - Developer tools that simplify indexing, analytics, and automation
 
-## GitHub activity
-
-<p align="center">
-  <img width="49%" src="./assets/github-stats.svg" alt="Ali Maresh GitHub overview" />
-  <img width="49%" src="./assets/github-languages.svg" alt="Public repository languages" />
-</p>
-
 ## Content
 
 I share content about artificial intelligence, web development, game development, digital products, and the process of building real projects.
