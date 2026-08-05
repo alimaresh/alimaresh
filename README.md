@@ -112,8 +112,8 @@ I am an **AI engineer, SaaS founder, web developer, game developer, and content 
 ## GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alimaresh&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ali Maresh GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimaresh&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
+  <img width="49%" src="./assets/github-stats.svg" alt="Ali Maresh GitHub overview" />
+  <img width="49%" src="./assets/github-languages.svg" alt="Public repository languages" />
 </p>
 
 ## Content
