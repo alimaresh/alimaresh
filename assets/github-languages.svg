@@ -1,0 +1,20 @@
+<svg width="570" height="180" viewBox="0 0 570 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="568" height="178" rx="20" fill="#FFFFFF" stroke="#E7E6E9" stroke-width="2"/>
+  <text x="28" y="36" fill="#1A181D" font-family="Inter, Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Public repository languages</text>
+  <text x="28" y="58" fill="#85828A" font-family="Inter, Arial, Helvetica, sans-serif" font-size="11">PRIMARY LANGUAGES ON GITHUB</text>
+
+  <rect x="28" y="84" width="514" height="12" rx="6" fill="#ECEBED"/>
+  <rect x="28" y="84" width="386" height="12" rx="6" fill="#08C7B0"/>
+  <rect x="414" y="84" width="128" height="12" rx="6" fill="#1A181D"/>
+
+  <g transform="translate(28 119)">
+    <circle cx="7" cy="7" r="7" fill="#08C7B0"/>
+    <text x="22" y="12" fill="#1A181D" font-family="Inter, Arial, Helvetica, sans-serif" font-size="14" font-weight="700">Python</text>
+    <text x="22" y="32" fill="#85828A" font-family="Inter, Arial, Helvetica, sans-serif" font-size="11">3 repositories</text>
+  </g>
+  <g transform="translate(303 119)">
+    <circle cx="7" cy="7" r="7" fill="#1A181D"/>
+    <text x="22" y="12" fill="#1A181D" font-family="Inter, Arial, Helvetica, sans-serif" font-size="14" font-weight="700">HTML</text>
+    <text x="22" y="32" fill="#85828A" font-family="Inter, Arial, Helvetica, sans-serif" font-size="11">1 repository</text>
+  </g>
+</svg>

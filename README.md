@@ -98,7 +98,6 @@ I am an **AI engineer, SaaS founder, web developer, game developer, and content 
 
 | Project | Description | Technology |
 |---|---|---|
-| [trubo-rank-ai](https://github.com/alimaresh/trubo-rank-ai) | AI visibility and search discoverability project | Web, AI |
 | [google-index](https://github.com/alimaresh/google-index) | Desktop GUI for managing URLs through the Google Indexing API | Python |
 | [index-now](https://github.com/alimaresh/index-now) | Desktop GUI for submitting updated URLs through IndexNow | Python |
 
