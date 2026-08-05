@@ -1,0 +1,53 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wash" x1="600" y1="0" x2="600" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FAFAFA"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#DDFBF7" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#DDFBF7"/>
+      <stop offset="1" stop-color="#DDFBF7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="url(#wash)" stroke="#E8E7EA" stroke-width="2"/>
+  <path d="M1 28C1 13.088 13.088 1 28 1H1172C1186.91 1 1199 13.088 1199 28V31H1V28Z" fill="#1A181D"/>
+  <rect x="438" y="31" width="324" height="2" fill="url(#fade)"/>
+
+  <g transform="translate(54 58)">
+    <text x="0" y="28" fill="#1A181D" font-family="Inter, Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="-0.4">ALI MARESH</text>
+  </g>
+
+  <g transform="translate(54 132)">
+    <rect width="196" height="36" rx="18" fill="#FFFFFF" stroke="#E5E4E7"/>
+    <circle cx="19" cy="18" r="5" fill="#08C7B0"/>
+    <text x="34" y="23" fill="#49464E" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="0.6">FOUNDER &amp; ENGINEER</text>
+
+    <text x="0" y="99" fill="#1A181D" font-family="Inter, Arial, Helvetica, sans-serif" font-size="52" font-weight="750" letter-spacing="-2.2">Building products for the</text>
+    <text x="0" y="150" fill="#1A181D" font-family="Inter, Arial, Helvetica, sans-serif" font-size="52" font-weight="750" letter-spacing="-2.2">next era of search.</text>
+    <text x="0" y="190" fill="#74717A" font-family="Inter, Arial, Helvetica, sans-serif" font-size="19">AI visibility, SaaS systems and digital products.</text>
+  </g>
+
+  <g transform="translate(840 69)">
+    <rect width="310" height="230" rx="24" fill="#FFFFFF" stroke="#E5E4E7"/>
+    <text x="26" y="37" fill="#8A8790" font-family="Inter, Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">CURRENTLY BUILDING</text>
+    <line x1="26" y1="55" x2="284" y2="55" stroke="#ECEBED"/>
+
+    <g transform="translate(26 75)">
+      <rect width="5" height="38" rx="2.5" fill="#08C7B0"/>
+      <text x="19" y="17" fill="#1A181D" font-family="Inter, Arial, Helvetica, sans-serif" font-size="18" font-weight="750" letter-spacing="-0.4">TruboRankAI</text>
+      <text x="19" y="36" fill="#85828A" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12">AI visibility platform</text>
+    </g>
+
+    <g transform="translate(26 131)">
+      <rect width="258" height="1" fill="#ECEBED"/>
+      <text x="0" y="30" fill="#55525A" font-family="Inter, Arial, Helvetica, sans-serif" font-size="13">AI audits</text>
+      <text x="100" y="30" fill="#55525A" font-family="Inter, Arial, Helvetica, sans-serif" font-size="13">GEO / AEO</text>
+      <text x="201" y="30" fill="#55525A" font-family="Inter, Arial, Helvetica, sans-serif" font-size="13">AI tracking</text>
+      <rect y="49" width="258" height="36" rx="10" fill="#E9FCF9"/>
+      <text x="16" y="72" fill="#087E70" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" font-weight="700">truborankai.com</text>
+      <path d="M232 62H242M238 58L242 62L238 66" stroke="#087E70" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>

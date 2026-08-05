@@ -1,0 +1,28 @@
+<svg width="760" height="300" viewBox="0 0 760 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="760" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#07110F"/><stop offset="1" stop-color="#0A1724"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(582 130) rotate(90) scale(170)" gradientUnits="userSpaceOnUse"><stop stop-color="#1FE66B" stop-opacity=".22"/><stop offset="1" stop-color="#1FE66B" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="760" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="582" cy="130" r="170" fill="url(#glow)"/>
+  <g transform="translate(40 34)">
+    <text x="0" y="29" fill="#F2F7F4" font-family="Inter, Arial, Helvetica, sans-serif" font-size="25" font-weight="750" letter-spacing="-0.7">eFootball<tspan fill="#31E16E">LAB</tspan></text>
+    <rect y="67" width="158" height="30" rx="15" fill="#11271D" stroke="#1F4D32"/>
+    <circle cx="16" cy="82" r="4" fill="#32E570"/><text x="28" y="87" fill="#71EE9D" font-family="Inter, Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing=".8">BUILD YOUR TEAM</text>
+    <text y="145" fill="#F2F7F4" font-family="Inter, Arial, Helvetica, sans-serif" font-size="31" font-weight="750" letter-spacing="-1.3">Dominate with</text>
+    <text y="182" fill="#F2F7F4" font-family="Inter, Arial, Helvetica, sans-serif" font-size="31" font-weight="750" letter-spacing="-1.3">eFootball<tspan fill="#31E16E">LAB.</tspan></text>
+    <text y="220" fill="#96AAA1" font-family="Inter, Arial, Helvetica, sans-serif" font-size="13">Player intelligence, squads and tactical tools.</text>
+  </g>
+  <g transform="translate(500 35)">
+    <rect width="190" height="225" rx="18" fill="#0D1D1A" stroke="#1E4231"/>
+    <text x="20" y="32" fill="#779287" font-family="Inter, Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="1">PLAYER DATABASE</text>
+    <text x="20" y="82" fill="#F2F7F4" font-family="Inter, Arial, Helvetica, sans-serif" font-size="35" font-weight="750">27K+</text>
+    <text x="20" y="105" fill="#8DA399" font-family="Inter, Arial, Helvetica, sans-serif" font-size="11">PLAYERS &amp; STATS</text>
+    <rect x="20" y="132" width="150" height="9" rx="4.5" fill="#193128"/><rect x="20" y="132" width="126" height="9" rx="4.5" fill="#31E16E"/>
+    <rect x="20" y="154" width="150" height="9" rx="4.5" fill="#193128"/><rect x="20" y="154" width="98" height="9" rx="4.5" fill="#27B85B"/>
+    <rect x="17" y="181" width="156" height="27" rx="9" fill="#143626"/>
+    <text x="31" y="199" fill="#E7F8EC" font-family="Inter, Arial, Helvetica, sans-serif" font-size="10" font-weight="700">TEAM BUILDER READY</text>
+    <circle cx="156" cy="194" r="6" fill="#31E16E"/>
+  </g>
+  <rect x="1" y="1" width="758" height="298" rx="23" stroke="#1B352A" stroke-width="2"/>
+</svg>
