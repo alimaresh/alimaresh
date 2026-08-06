@@ -35,7 +35,7 @@ I am an **AI engineer, SaaS founder, web developer, game developer, and content 
 
 **TruboRankAI** helps websites improve their visibility across AI search engines and traditional search.
 
-`AI Site Audits` `GEO` `AEO` `AI Crawler Tracking` `Google Search Console` `RAG Assistant` `Shopify Integration`
+`AI Site Audits` `AI Clarity Audits` `GEO` `AEO` `AIO` `AI Crawler Tracking` `Google Search Console` `RAG Assistant` `Shopify Integration`
 
 <p>
   <a href="https://www.truborankai.com">
