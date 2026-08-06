@@ -60,7 +60,7 @@ I am an **AI engineer, SaaS founder, web developer, game developer, and content 
     </td>
     <td width="50%" valign="top">
       <a href="https://plinkod.com">
-        <img src="./assets/plinkod-card.svg" width="100%" alt="Plinkod" />
+        <img src="./assets/plinkod-cards.svg" width="100%" alt="Plinkod" />
       </a>
       <br />
       <b>Plinkod</b>
