@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.amstudio.dev/links">
+  <a href="https://www.amstudio.dev">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.truborankai.com">
@@ -92,14 +92,7 @@ I am an **AI engineer, SaaS founder, web developer, game developer, and content 
 
 **Data and infrastructure**
 
-`Docker` `Git` `GitHub Actions` `Cloudflare` `PostgreSQL` `Spark`
-
-## Selected open-source tools
-
-| Project | Description | Technology |
-|---|---|---|
-| [google-index](https://github.com/alimaresh/google-index) | Desktop GUI for managing URLs through the Google Indexing API | Python |
-| [index-now](https://github.com/alimaresh/index-now) | Desktop GUI for submitting updated URLs through IndexNow | Python |
+`Docker` `Git` `GitHub Actions` `Cloudflare`
 
 ## Currently building
 
